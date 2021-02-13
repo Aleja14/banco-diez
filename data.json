@@ -10,7 +10,7 @@
         "card_code3": "3458",
         "card_code4": "9985",
         "exp_end": "2/23",
-        "card_image": "../assets/images/card/1.jpeg",
+        "card_image": "./assets/images/card/1.jpeg",
         "iban": "ES72 6586 4565 56 4553879654",
         "account": ["Visa"],
         "transfers": [
@@ -45,7 +45,7 @@
         "card_code3": "3495",
         "card_code4": "0356",
         "exp_end": "11/22",
-        "card_image": "../assets/images/card/2.jpeg",
+        "card_image": "./assets/images/card/2.jpeg",
         "iban": "ES66 0019 0020 96 1234567890",
         "account": ["Trabajo", "Personal", "Familiar"],
         "transfers": [
@@ -98,7 +98,7 @@
         "card_code3": "6872",
         "card_code4": "4593",
         "exp_end": "4/25",
-        "card_image": "../assets/images/card/3.jpeg",
+        "card_image": "./assets/images/card/3.jpeg",
         "iban": "ES28 2459 4537 25 2545876594",
         "account": ["Personal", "Vacaciones", "Trabajo"],
         "transfers": [
@@ -139,7 +139,7 @@
         "card_code3": "6892",
         "card_code4": "3540",
         "exp_end": "8/21",
-        "card_image": "../assets/images/card/4.jpeg",
+        "card_image": "./assets/images/card/4.jpeg",
         "iban": "ES58 6987 6584 25 2569874630",
         "account": ["Personal 1", "Personal 2", "Trabajo", "Familia", "Empresa"],
         "transfers": [
