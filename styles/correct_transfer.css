@@ -1,0 +1,107 @@
+@font-face {
+    font-family: OpenSans;
+    src: url('../assets/fonts/open_sans/OpenSans-Light.ttf');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url('../assets/fonts/open_sans/OpenSans-Italic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url('../assets/fonts/open_sans/OpenSans-Regular.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url('../assets/fonts/open_sans/OpenSans-SemiBold.ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url('../assets/fonts/open_sans/OpenSans-Bold.ttf');
+    font-weight: 700;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    overflow: hidden;
+}
+
+.container {
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 100;
+    width: 450px;
+    display: table;
+}
+
+.title {
+    margin: 0;
+    font-family: OpenSans;
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+
+.text {
+    margin: 0; 
+    text-align: justify;
+    font-family: OpenSans;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.text_container {
+    margin-top: 10px;
+    padding: 0px 15px;
+    background-color: rgba(0, 0, 0, 0.05);
+    font-family: OpenSans;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 10px;
+    height: 50px;
+    display: table;
+}
+
+.tax {
+    position: absolute;
+    bottom: 10px;
+    margin: 0;
+    text-align: center;
+    font-family: OpenSans;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 500;
+    font-size: 12px;
+    width: 100%;
+}
+
+.close {
+    position: absolute;
+    right: 10px; 
+    top: 10px; 
+    display: block;
+    fill: black;
+    transition: transform 0.5s, fill 0.5s;
+}
+
+.close:hover {
+    fill: rgb(198, 40, 40);
+}
+
+.close:active {
+    transform: scale(0.9)
+}
