@@ -1,0 +1,11 @@
+user: josemariaperez@gmail.com
+password: 5890
+
+user: alejandrovillasrodríguez@gmail.com
+password: 6985
+
+user: marialopezgarcia@gmail.com
+password: 5890
+
+user: juanabolivar@gmail.com
+password: 2245

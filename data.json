@@ -1,0 +1,190 @@
+[
+    {
+        "user": "josemariaperez@gmail.com",
+        "password": "5890",
+        "name": "José María Pérez",
+        "image": "http://www.gruporetiro.com/c0nt3nt/uploads/2012/12/Fotolia_7250827_XS.jpg",
+        "money": 15248.54,
+        "card_code1": "0455",
+        "card_code2": "0576",
+        "card_code3": "3458",
+        "card_code4": "9985",
+        "exp_end": "2/23",
+        "card_image": "../assets/images/card/1.jpeg",
+        "iban": "ES72 6586 4565 56 4553879654",
+        "account": ["Visa"],
+        "transfers": [
+            {
+                "type": "down",
+                "name": "Revisión dentista.",
+                "money": 50,
+                "description": "Se ha realizado el cobro del dentista el 25 de Enero."
+            },
+            {
+                "type": "up",
+                "name": "Paga de Pesión.",
+                "money": 1025,
+                "description": "El día 2 de Enero de 2021 se le ingresó la pensión."
+            },
+            {
+                "type": "down",
+                "name": "Compra Mercadona.",
+                "money": 205,
+                "description": "El 29 de Diciembre se realizó una compra en el Mercadona de San Cristobal, en Burgos."
+            }
+        ]
+    },
+    {
+        "user": "alejandrovillasrodríguez@gmail.com",
+        "password": "6985",
+        "name": "Alejandro Villas Rodríguez",
+        "image": "https://i.pinimg.com/736x/d6/0e/d2/d60ed22f845a2aa5a30db48a3fdb9e6c.jpg",
+        "money": 102512.54,
+        "card_code1": "5468",
+        "card_code2": "1285",
+        "card_code3": "3495",
+        "card_code4": "0356",
+        "exp_end": "11/22",
+        "card_image": "../assets/images/card/2.jpeg",
+        "iban": "ES66 0019 0020 96 1234567890",
+        "account": ["Trabajo", "Personal", "Familiar"],
+        "transfers": [
+            {
+                "type": "down",
+                "name": "Cobro del seguro del coche.",
+                "money": 500,
+                "description": "El día 20 de Diciembre de 2020, la compañía Mapfre, realizó el cobro anual del seguro de su coche Tesla."
+            },
+            {
+                "type": "up",
+                "name": "Ingreso de nómina.",
+                "money": 5483,
+                "description": "El día 30 de Novirembre de 2020 se le ingresó su nómina de trabajo."
+            },
+            {
+                "type": "down",
+                "name": "Transferencia bancaria.",
+                "money": 1095,
+                "description": "El día 28 de Noviembre de 2020 se realizó una transferencia bancaria a la cuenta de María López."
+            },
+            {
+                "type": "up",
+                "name": "Transferencia recivida.",
+                "money": 200,
+                "description": "El día 5 de Ocutbre de 2020 se le ingresó una transferencia a su cuenta de Ariadna Diez."
+            },
+            {
+                "type": "down",
+                "name": "Recarga iberdrola.",
+                "money": 20,
+                "description": "Se ha cargado a su cuenta la última carga realizada en uno de nuestros cargadores del Centro Comercial el Mirador."
+            },
+            {
+                "type": "down",
+                "name": "Compra.",
+                "money": 80,
+                "description": "Se ha cargado a su cuenta la última compra que has realizado en el Carrefour del Mirador."
+            }
+        ]
+    },
+    {
+        "user": "marialopezgarcia@gmail.com",
+        "password": "5890",
+        "name": "María López García",
+        "image": "https://image.freepik.com/foto-gratis/chica-joven-genial-bonito-perfil_58409-11736.jpg",
+        "money": 20259.54,
+        "card_code1": "8579",
+        "card_code2": "2354",
+        "card_code3": "6872",
+        "card_code4": "4593",
+        "exp_end": "4/25",
+        "card_image": "../assets/images/card/3.jpeg",
+        "iban": "ES28 2459 4537 25 2545876594",
+        "account": ["Personal", "Vacaciones", "Trabajo"],
+        "transfers": [
+            {
+                "type": "down",
+                "name": "Cobro del seguro del coche.",
+                "money": 200,
+                "description": "El día 5 de Enero de 2020, la compañía Mapfre, realizó el cobro anual del seguro de su coche."
+            },
+            {
+                "type": "up",
+                "name": "Ingreso de anuncios.",
+                "money": 2000,
+                "description": "El día 5 de Diciembre de 2020 se le ingresó de sus anuncios de su página web."
+            },
+            {
+                "type": "down",
+                "name": "Transferencia bancaria.",
+                "money": 1095,
+                "description": "El día 28 de Noviembre de 2020 se realizó una transferencia bancaria a la cuenta de Alejandro Villas."
+            },
+            {
+                "type": "down",
+                "name": "Compra Apple Store.",
+                "money": 1859,
+                "description": "Se ha cargado a su cuenta la última compra que has realizado en la Apple Store, para mas información consulte su número de pedido."
+            }
+        ]
+    },
+    {
+        "user": "juanabolivar@gmail.com",
+        "password": "2245",
+        "name": "Juana Bolívar",
+        "image": "https://img.interempresas.net/fotos/1925311.jpeg",
+        "money": 80695.54,
+        "card_code1": "8245",
+        "card_code2": "6678",
+        "card_code3": "6892",
+        "card_code4": "3540",
+        "exp_end": "8/21",
+        "card_image": "../assets/images/card/4.jpeg",
+        "iban": "ES58 6987 6584 25 2569874630",
+        "account": ["Personal 1", "Personal 2", "Trabajo", "Familia", "Empresa"],
+        "transfers": [
+            {
+                "type": "up",
+                "name": "Cuentas finales del Q4.",
+                "money": 20635.68,
+                "description": "El día 15 de Enero de 2021, se le han ingresado todos sus beneficios del Q4 de su empresa."
+            },
+            {
+                "type": "down",
+                "name": "Cobro del seguro de vida.",
+                "money": 300,
+                "description": "El día 5 de Enero de 2021, la compañía Mapfre, realizó el cobro anual del seguro de vida laboral."
+            },
+            {
+                "type": "down",
+                "name": "Cobro del seguro de coche.",
+                "money": 150,
+                "description": "El día 5 de Enero de 2021, la compañía Mapfre, realizó el cobro anual del seguro de su coche."
+            },
+            {
+                "type": "down",
+                "name": "Cobro del seguro de coche.",
+                "money": 250,
+                "description": "El día 5 de Enero de 2021, la compañía Mapfre, realizó el cobro anual del seguro de su coche."
+            },
+            {
+                "type": "up",
+                "name": "Ingreso de anuncios.",
+                "money": 2000,
+                "description": "El día 5 de Diciembre de 2020 se le ingresó de sus anuncios de su canal de Youtube."
+            },
+            {
+                "type": "down",
+                "name": "Transferencia bancaria.",
+                "money": 1095,
+                "description": "El día 28 de Noviembre de 2020 se realizó una transferencia bancaria a la cuenta de Rubén Fernández."
+            },
+            {
+                "type": "up",
+                "name": "Lotería.",
+                "money": 1000,
+                "description": "Se ha cargado a su cuenta el premio que ganó en Loterias y Apuestas del Estado."
+            }
+        ]
+    }
+]

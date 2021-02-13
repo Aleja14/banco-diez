@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="image/png" href="./assets/icons/favicon.png">
+    <link rel="stylesheet" href="./styles/log_in.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+	<title>Inicio de sesión - Banco Diez</title>
+</head>
+<body class="body">
+    <div>
+        <img src="./assets/images/river.jpg" class="background_image">
+        <img src="./assets/images/beach.jpg" class="background_image">
+        <img src="./assets/images/mountains.jpg" class="background_image">
+    </div>
+    <div class="container" id="container">
+        <form style="margin: 0px;">
+            <div style="display: flex; margin-bottom: 20px;">
+                <label for="email" class="input_icon"><img src="./assets/icons/mail.svg" width="20px" height="20px" style="margin: auto;"></label>
+                <input type="email" class="input_text" id="email" placeholder="Correo electrónico" title="Correo electrónico" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+            </div>
+            <div style="display: flex;">
+                <label for="password" class="input_icon"><img src="./assets/icons/password.svg" width="20px" height="20px" style="margin: auto;"></label>
+                <input type="password" class="input_text" id="password" placeholder="Contraseña" title="Contraseña" required>
+            </div>
+            <input type="button" class="button" onclick="validate()" value="INICIAR SESIÓN" title="Iniciar sesión">
+        </form>
+    </div>
+    <img src="./assets/icons/favicon.png" height="40px" width="40px" style="position: fixed; left: 10px; bottom: 10px;">
+    <script type="text/javascript" src="./scripts/log_in.js"></script>
+</body>
+</html>
